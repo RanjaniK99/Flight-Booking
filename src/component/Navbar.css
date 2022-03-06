@@ -1,0 +1,30 @@
+* {
+  font-family: "poppins", sans-serif;
+}
+/* .navbar .navbar-brand {
+  font-size: 30px;
+}
+.navbar .nav-item {
+  padding: 10px 10px;
+}
+.navbar .nav-link {
+  font-size: 20px;
+  margin-left: 10px;
+}
+.fa-bars {
+  color: #ea00ff;
+  font-size: 30px;
+  outline: none;
+} */
+.navbar .navbar-brand {
+  color: black;
+}
+.navbar .navbar-brand:hover,
+.navbar .nav-link:hover {
+  color: rgb(224, 43, 224);
+}
+.navbar .nav-link {
+  color: black;
+  font-weight: 600;
+  font-size: 17px;
+}
